@@ -1,0 +1,27 @@
+_repo: Frederic-Lord-Leighton--An-Illustrated-Record-of-His-Life-and-Work_30262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2009-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leighton of Stretton, Frederic Leighton, Baron, 1830-1896'
+- !lcc 'ND'
+title: 'Frederic Lord Leighton: An Illustrated Record of His Life and Work'
+url: http://www.gutenberg.org/ebooks/30262
